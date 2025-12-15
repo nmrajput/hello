@@ -1,4 +1,5 @@
 # hello
 this is my first Repository.
 <br>
-Author - nitesh singh
+Author - nitesh (apna collage)
+
